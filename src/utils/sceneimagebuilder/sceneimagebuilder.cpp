@@ -1,8 +1,8 @@
-//= SceneImageBuilder -> Writen by Unusuario2, https://github.com/Unusuario2  =//
+//= SceneImageBuilder -> Written by Unusuario2, https://github.com/Unusuario2  =//
 //
 // Purpose: 
 //
-//=============================================================================//
+//==============================================================================//
 #include "appframework/AppFramework.h"
 #include "tier1/strtools.h"
 #include "tier0/icommandline.h"
@@ -40,6 +40,7 @@ static void HitKeyToContinue()
     }
 }
 
+
 //-----------------------------------------------------------------------------
 // Purpose:
 //-----------------------------------------------------------------------------
@@ -68,6 +69,7 @@ static void PrintUsage()
     HitKeyToContinue();
     exit(-1);
 }
+
 
 //-----------------------------------------------------------------------------
 // Purpose:
@@ -323,3 +325,4 @@ int CSceneImageBuilderApp::Main()
 // Purpose: Main entry point 
 //-----------------------------------------------------------------------------
 DEFINE_CONSOLE_STEAM_APPLICATION_OBJECT(CSceneImageBuilderApp)
+

@@ -1,8 +1,8 @@
-//= SceneImageBuilder -> Writen by Unusuario2, https://github.com/Unusuario2  =//
+//= SceneImageBuilder -> Written by Unusuario2, https://github.com/Unusuario2  =//
 //
 // Purpose: 
 //
-//=============================================================================//
+//==============================================================================//
 #ifndef SCENEIMAGEBUILDER_H
 #define SCENEIMAGEBUILDER_H
 
