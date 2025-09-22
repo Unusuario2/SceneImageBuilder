@@ -49,7 +49,7 @@ $Project "sceneimagebuilder"
 
 	$Folder	"Header Files"
 	{
-		$File "sceneimagebuilder.h"
+		$File "sceneimagebuilder.hpp"
 
 		$Folder	"Common header files"
 		{
