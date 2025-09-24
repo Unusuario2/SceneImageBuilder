@@ -4,7 +4,7 @@
 
 <img width="890" height="221" alt="image" src="https://github.com/user-attachments/assets/e6b3beb5-f1ab-4346-920a-6fb687e9c187" />
 
-🎬 **SceneImageBuilder in action:**  
+**SceneImageBuilder in action:**  
 
 
 
@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/feaef97c-aaf4-4e83-ad69-8868f9431900
 
 ---
 
-## 📦 Installation
+## Installation
 
 To install **SceneImageBuilder**, follow these steps:
 
@@ -26,10 +26,10 @@ To install **SceneImageBuilder**, follow these steps:
 
 ---
 
-## Contact   
+## Contact  
 
-Steam: https://steamcommunity.com/profiles/76561199073832016/  
-Twitter: https://x.com/47Z14  
-Discord: carlossuarez7285  
+- **Steam**: [Profile Link](https://steamcommunity.com/profiles/76561199073832016/)  
+- **Twitter/X**: [@47Z14](https://x.com/47Z14)  
+- **Discord**: `carlossuarez7285`  
 
 ---  
